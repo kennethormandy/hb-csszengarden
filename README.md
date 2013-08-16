@@ -1,6 +1,6 @@
 Harp Boilerplate for CSS Zen Garden
 ===================================
 
-This is a boilerplate for creating CSS Zen Garden submissions with Harp. To learn more about how to use Harp, visit the [Harp docs](http://harpjs.com).
+This is a boilerplate for creating CSS Zen Garden submissions using Harp. To learn more about how to use Harp, visit the [Harp docs](http://harpjs.com).
 
-Comprehensive instructions on compiling for CSS Zen Garden are forthcoming, but it should be similar to [using Harp on GitHub Pages](http://harpjs.com/docs/deployment/github-pages)
+Use `harp compile` or view source to get the CSS file. More comprehensive instructions on the best practice for this will be added.
